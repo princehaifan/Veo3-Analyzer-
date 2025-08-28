@@ -1,0 +1,5 @@
+{
+  "name": "Veo3 Analyzer",
+  "description": "Upload a video to automatically generate a detailed JSON analysis, perfect for creating structured prompts or metadata. View, edit, and download your results.",
+  "requestFramePermissions": []
+}
